@@ -1,0 +1,13 @@
+name = "Data"
+uuid = "776c13d3-b0d4-4191-bced-81f3a0a989f1"
+authors = ["quantumlang <quantumlang@outlook.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
